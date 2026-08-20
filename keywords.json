@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "id": ["ringkasan", "profil", "profil singkat", "tentang saya", "deskripsi diri"],
+    "en": ["summary", "profile", "objective", "about me", "career objective", "professional summary"]
+  },
+  "experience": {
+    "id": ["pengalaman kerja", "pengalaman", "riwayat pekerjaan", "riwayat kerja", "pengalaman profesional"],
+    "en": ["work experience", "experience", "professional experience", "employment history", "career history", "work history"]
+  },
+  "education": {
+    "id": ["pendidikan", "riwayat pendidikan", "latar belakang pendidikan", "pendidikan formal"],
+    "en": ["education", "academic background", "educational background", "academic qualifications"]
+  },
+  "skills": {
+    "id": ["keahlian", "kemampuan", "kompetensi", "keterampilan", "kemampuan teknis"],
+    "en": ["skills", "technical skills", "core competencies", "competencies", "key skills"]
+  },
+  "certifications": {
+    "id": ["sertifikasi", "sertifikat", "lisensi", "pelatihan"],
+    "en": ["certifications", "certificates", "licenses", "training"]
+  },
+  "languages": {
+    "id": ["bahasa", "kemampuan bahasa", "penguasaan bahasa"],
+    "en": ["languages", "language proficiency"]
+  },
+  "organizations": {
+    "id": ["organisasi", "pengalaman organisasi", "kegiatan organisasi"],
+    "en": ["organizations", "organizational experience", "extracurricular activities"]
+  },
+  "projects": {
+    "id": ["proyek", "portofolio", "proyek pribadi"],
+    "en": ["projects", "portfolio", "personal projects"]
+  },
+  "awards": {
+    "id": ["penghargaan", "prestasi", "pencapaian"],
+    "en": ["awards", "honors", "achievements"]
+  },
+  "references": {
+    "id": ["referensi"],
+    "en": ["references"]
+  }
+}
